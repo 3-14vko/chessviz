@@ -1,8 +1,0 @@
-$ cat .gitignore
-*.[oa]
-*~
-*.swp
-*#
-.g
-realize
-
